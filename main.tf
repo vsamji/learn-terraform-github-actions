@@ -10,6 +10,7 @@ terraform {
     }
   }
   #  required_version = "~> 0.14"
+  # test
 
   backend "remote" {
     organization = "vin_test"
